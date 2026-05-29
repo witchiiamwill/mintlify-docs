@@ -11,16 +11,21 @@
   "navigation": {
     "groups": [
       {
-        "group": "Char Gen",
+        "group": "Character Creation",
         "pages": [
-          "Mortal Bystander Char Gen",
-          "Hunter Char Gen",
-          "Kindred Char Gen",
-          "Changing Breed Char Gen",
-          "Garou Char Gen",
-          "Kinfolk Char Gen",
-          "Mage Char Gen",
-          "Sorcerer Char Gen"
+          {
+            "group": "Playable Splats",
+            "pages": [
+              "Mortal Bystander Char Gen",
+              "Hunter Char Gen",
+              "Kindred Char Gen",
+              "Changing Breed Char Gen",
+              "Garou Char Gen",
+              "Kinfolk Char Gen",
+              "Mage Char Gen",
+              "Sorcerer Char Gen"
+            ]
+          }
         ]
       },
       {
