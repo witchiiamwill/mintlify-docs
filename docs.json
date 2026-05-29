@@ -9,9 +9,7 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
-    "pages": [
-      "index",
-      "quickstart",
+    "groups": [
       {
         "group": "Char Gen",
         "pages": [
