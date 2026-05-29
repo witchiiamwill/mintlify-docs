@@ -64,7 +64,17 @@
       {
         "group": "Additional Info",
         "pages": [
-          "Groups"
+          "Groups",
+          "blood-bonds",
+          "kindred-age-generation-and-clan"
+        ]
+      },
+      {
+        "group": "Crafting Guides",
+        "pages": [
+          "weapon-crafting",
+          "fetish-crafting",
+          "talen-crafting"
         ]
       }
     ]
