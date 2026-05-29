@@ -15,13 +15,13 @@
       {
         "group": "Char Gen",
         "pages": [
-          "Changing Breed Char Gen",
-          "Garou Char Gen",
+          "Mortal Bystander Char Gen",
           "Hunter Char Gen",
           "Kindred Char Gen",
+          "Changing Breed Char Gen",
+          "Garou Char Gen",
           "Kinfolk Char Gen",
           "Mage Char Gen",
-          "Mortal Bystander Char Gen",
           "Sorcerer Char Gen"
         ]
       },
@@ -39,6 +39,7 @@
             "group": "Kindred WLQ",
             "pages": [
               "Ancilla WLQ",
+              "elder-whitelist-questions",
               "Banu Haqim WLQ",
               "Caitiff WLQ",
               "Followers of Set WLQ",
@@ -50,8 +51,7 @@
               "Samedi WLQ",
               "Thinblood WLQ",
               "Tremere WLQ",
-              "Tzimisce WLQ",
-              "Kindred WLQ"
+              "Tzimisce WLQ"
             ]
           }
         ]
