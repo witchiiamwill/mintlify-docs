@@ -43,12 +43,12 @@
                   "Mortal Bystander Char Gen",
                   "Hunter Char Gen",
                   "Kindred Char Gen",
-                  "Changing Breed Char Gen",
                   "Garou Char Gen",
                   "Kinfolk Char Gen",
                   "Mage Char Gen",
                   "Sorcerer Char Gen",
-                  "nuwisha-char-gen"
+                  "nuwisha-char-gen",
+                  "ghoul-char-gen"
                 ]
               }
             ]
