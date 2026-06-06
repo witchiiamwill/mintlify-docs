@@ -9,72 +9,83 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
-    "groups": [
+    "tabs": [
       {
-        "group": "Character Creation",
-        "pages": [
+        "tab": "General",
+        "groups": [
           {
-            "group": "Playable Splats",
+            "group": "Additional Info",
             "pages": [
-              "Mortal Bystander Char Gen",
-              "Hunter Char Gen",
-              "Kindred Char Gen",
-              "Changing Breed Char Gen",
-              "Garou Char Gen",
-              "Kinfolk Char Gen",
-              "Mage Char Gen",
-              "Sorcerer Char Gen"
+              "Groups",
+              "blood-bonds",
+              "kindred-age-generation-and-clan"
+            ]
+          },
+          {
+            "group": "Crafting Guides",
+            "pages": [
+              "weapon-crafting",
+              "fetish-crafting",
+              "talen-crafting"
             ]
           }
         ]
       },
       {
-        "group": "Experience Spends",
-        "pages": [
-          "Experience Costs",
-          "Monthly Experience"
-        ],
-        "expanded": true
-      },
-      {
-        "group": "Whitelist Questions",
-        "pages": [
+        "tab": "Character Creation and EXP Spends",
+        "groups": [
           {
-            "group": "Kindred Whitelist Questions",
+            "group": "Character Creation",
             "pages": [
-              "Ancilla WLQ",
-              "elder-whitelist-questions",
-              "Banu Haqim WLQ",
-              "Caitiff WLQ",
-              "Followers of Set WLQ",
-              "Giovanni WLQ",
-              "Lasombra WLQ",
-              "Ravnos WLQ",
-              "Revenant WLQ",
-              "Salubri WLQ",
-              "Samedi WLQ",
-              "Thinblood WLQ",
-              "Tremere WLQ",
-              "Tzimisce WLQ"
-            ],
-            "expanded": true
+              {
+                "group": "Playable Splats",
+                "pages": [
+                  "Mortal Bystander Char Gen",
+                  "Hunter Char Gen",
+                  "Kindred Char Gen",
+                  "Changing Breed Char Gen",
+                  "Garou Char Gen",
+                  "Kinfolk Char Gen",
+                  "Mage Char Gen",
+                  "Sorcerer Char Gen",
+                  "nuwisha-char-gen"
+                ]
+              }
+            ]
+          },
+          {
+            "group": "Experience Spends",
+            "expanded": true,
+            "pages": [
+              "Experience Costs",
+              "Monthly Experience"
+            ]
+          },
+          {
+            "group": "Whitelist Questions",
+            "pages": [
+              {
+                "group": "Kindred Whitelist Questions",
+                "expanded": true,
+                "pages": [
+                  "Ancilla WLQ",
+                  "elder-whitelist-questions",
+                  "Banu Haqim WLQ",
+                  "Caitiff WLQ",
+                  "Followers of Set WLQ",
+                  "Giovanni WLQ",
+                  "Lasombra WLQ",
+                  "Ravnos WLQ",
+                  "Revenant WLQ",
+                  "Salubri WLQ",
+                  "Samedi WLQ",
+                  "Thinblood WLQ",
+                  "Tremere WLQ",
+                  "Tzimisce WLQ"
+                ]
+              }
+            ]
           }
-        ]
-      },
-      {
-        "group": "Additional Info",
-        "pages": [
-          "Groups",
-          "blood-bonds",
-          "kindred-age-generation-and-clan"
-        ]
-      },
-      {
-        "group": "Crafting Guides",
-        "pages": [
-          "weapon-crafting",
-          "fetish-crafting",
-          "talen-crafting"
         ]
       }
     ]
