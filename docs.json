@@ -19,7 +19,7 @@
               "Groups",
               "blood-bonds",
               "kindred-age-generation-and-clan",
-              "ghouls",
+              "ghouling",
               "perma-requests"
             ]
           },
@@ -86,6 +86,12 @@
                   "Tzimisce WLQ"
                 ]
               }
+            ]
+          },
+          {
+            "group": "Approved Books",
+            "pages": [
+              "al"
             ]
           }
         ]
