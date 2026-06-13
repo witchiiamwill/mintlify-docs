@@ -85,6 +85,22 @@
                   "Tremere WLQ",
                   "Tzimisce WLQ"
                 ]
+              },
+              {
+                "group": "Fera Whitelist Questions",
+                "pages": [
+                  "fera-kinfolk-whitelist-questions",
+                  "corax-whitelist-questions",
+                  "nuwisha-whitelist-questions",
+                  "untitled-page",
+                  "bastet-whitelist-questions"
+                ]
+              },
+              {
+                "group": "Garou Whitelist Questions",
+                "pages": [
+                  "hakken-whitelist-questions"
+                ]
               }
             ]
           },
